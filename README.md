@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/atulumello/gatsby-bootstrap-boiler.svg?branch=master)](https://travis-ci.com/atulumello/gatsby-bootstrap-boiler)
 # gatsby-bootstrap-boiler
 A simple gatsby bootstrap boilerplate. Ideal for a quick start!
 
