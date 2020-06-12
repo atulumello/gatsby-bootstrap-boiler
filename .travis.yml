@@ -7,7 +7,7 @@ cache:
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: $334e7d1f7c324eb65d96e62fd333027005086d4d
+  github-token: $GITHUB_TOKEN
   local_dir: public
   keep-history: true
   on:
