@@ -1,4 +1,3 @@
-![Travis CI Status](https://api.travis-ci.com/atulumello/gatsby-bootstrap-boiler.svg?branch=master&status=passed)
 # gatsby-bootstrap-boiler
 A simple gatsby bootstrap boilerplate. Ideal for a quick start!
 
