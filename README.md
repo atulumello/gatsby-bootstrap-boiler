@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/atulumello/gatsby-bootstrap-boiler.svg?branch=master)](https://travis-ci.com/atulumello/gatsby-bootstrap-boiler)
-[![License](https://img.shields.io/badge/license-GNU-green)](https://github.com/atulumello/gatsby-bootstrap-boiler/blob/master/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green)](https://github.com/atulumello/gatsby-bootstrap-boiler/blob/master/LICENSE)
+
 
 # gatsby-bootstrap-boiler
 A simple gatsby bootstrap boilerplate. Ideal for a quick start!
