@@ -16,6 +16,7 @@ A simple gatsby bootstrap boilerplate. Ideal for a quick start!
 
 ### Features
 * Always on Bottom Footer
+* Always up to date copyright
 * Bootstrap 4
 
 ## Installation 
