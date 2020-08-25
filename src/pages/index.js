@@ -39,7 +39,6 @@ export default function Home() {
               <Col xs="12" className="text-center"><CustomAlert name="react-helmet" url="https://www.npmjs.com/package/react-helmet"/></Col>
               <Col xs="12" className="text-center"><CustomAlert name="react-fontawesome" url="https://www.npmjs.com/package/react-fontawesome"/></Col>
               <Col xs="12" className="text-center"><CustomAlert name="gatsby-plugin-sass" url="https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-sass"/></Col>
-              <Col xs="12" className="text-center"><CustomAlert name="gatsby-robots-txt" url="https://www.gatsbyjs.org/packages/gatsby-plugin-robots-txt/"/></Col>
               
             </Row>
             <Row>
