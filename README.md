@@ -11,7 +11,6 @@ A simple gatsby bootstrap boilerplate. Ideal for a quick start!
 * Animate.css
 * react-helmet
 * gatsby-plugin-sass
-* gatsby-robots-txt
 * react-fontawesome
 
 ### Features
